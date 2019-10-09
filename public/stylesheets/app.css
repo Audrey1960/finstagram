@@ -1,0 +1,25 @@
+header {
+  background-color:#244751; 
+  color:#E8FDFF;
+}
+body {
+  font-family: 'Titillium Web', sans-serif;
+  background: whitesmoke;
+} 
+main {
+  background-color: white;
+  padding: 16px;
+  } 
+a.photo:hover {
+  padding: 10px;
+} 
+ a.photo{
+    transition: padding 0.5s;
+  }
+
+.finstagram-post {
+  margin-bottom:48px;
+  }
+.finstagram-post .user-info img {
+  border-radius: 50%;
+  }
